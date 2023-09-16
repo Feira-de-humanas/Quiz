@@ -1,0 +1,27 @@
+audio 1 = 'audio1.mpeg'
+resp = 'Samba'
+
+audio 2 = 'audio2.mpeg'
+resp = 'Mpb'
+
+audio 3 = 'audio3.mpeg'
+resp = 'rock'
+
+audio 4 = 'audio4.mpeg'
+resp = 'Sertanejo'
+
+audio 5 = 'audio5.mpeg'
+resp = 'funk'
+
+audio 6 = 'audio6.mpeg'
+resp = 'rap'
+
+audio 7 = 'audio7.mpeg'
+resp = 'rock'
+
+audio 8 = 'audio8.mpeg'
+resp = 'Mpb'
+
+
+
+
